@@ -1,5 +1,5 @@
 ---
-title: Cyblem exports the Finnish nation-wide approach to cybersecurity.
+title: Cyblem Exports the Finnish Nation-Wide Approach to Cybersecurity.
 layout: default
 ---
 <!-- markdownlint-disable MD041 -->
